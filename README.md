@@ -1,0 +1,2 @@
+# ShayriAppFull
+fullapp
